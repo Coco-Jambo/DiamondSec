@@ -6,13 +6,22 @@ Link to the website : https://kritgrover.github.io/conuhacks/
 </br>
 
 ## Table of Contents
+- [Contributors](#contributors)
 - [Goal](#goal)
 - [The Approach](#the-approach)
 - [Functionality](#functionality)
   - [Generating a Secure Password](#generating-a-secure-password)
   - [Evaluating Your Passwords](#evaluating-your-passwords)
 - [Future Steps](#future-steps)
-  
+
+</br>
+
+## Contruibutors
+- [kritgrover](https://github.com/kritgrover)
+- [AgnesCroteau](https://github.com/AgnesCroteau)
+- [yckarma](https://github.com/yckamra)
+- [Coco-Jambo](https://github.com/Coco-Jambo)
+
 </br>
 
 ## Goal
